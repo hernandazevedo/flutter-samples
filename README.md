@@ -1,7 +1,7 @@
 # flutter-samples
 
 # Getting Started Beagle Native Sample
-To run this code, just download the repository https://github.com/ZupIT/beagle-backend-kotlin
+To run this code, just download the repository https://github.com/ZupIT/beagle-backend-kotlin or the tag https://github.com/ZupIT/beagle-backend-kotlin/releases/tag/1.10.0
 
  Go to the beagle-backend-kotlin repository root folder and run the backend with the command: ./gradlew bootRun
 
